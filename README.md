@@ -15,3 +15,6 @@ Code required for CMP114 course at Carroll University
 - Week 10: Chapter 12 - two-way ANOVA.
 - Week 11: Chapter 22 - Goodness-of-Fit test.
 - Week 12: Chapter 23 - Test for Independence.
+
+## TODO
+how to install python
