@@ -1,0 +1,13 @@
+data,drug,age
+48,placebo,child
+50,placebo,child
+52,placebo,child
+49,drug,child
+50,drug,child
+51,drug,child
+38,placebo,adult
+40,placebo,adult
+42,placebo,adult
+68,drug,adult
+70,drug,adult
+72,drug,adult

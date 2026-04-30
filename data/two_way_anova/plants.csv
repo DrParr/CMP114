@@ -1,0 +1,13 @@
+data,fertilizer,sunlight
+9,no,low
+10,no,low
+11,no,low
+19,no,high
+20,no,high
+21,no,high
+19,yes,low
+20,yes,low
+21,yes,low
+29,yes,high
+30,yes,high
+31,yes,high
